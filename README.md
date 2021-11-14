@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fbotzz/rawr/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fbotzz/fbotzz/)
 
 <!--
 **Fbotzz/fbotzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
