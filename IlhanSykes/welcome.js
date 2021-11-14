@@ -5,9 +5,9 @@
 
 // UCAPAN WELCOME
 const ucapan = (num, mdata, pushname) => {
-	return `Hello, @${num.split('@')[0]} 👋
-Selamat Datang Di *_${mdata.subject}_*
-Seperti Biasa Jauhi Keramaian, Ketatkan Celana Dalam, Simetriskan Kedudukan, Jangan Pernah Semangat Tetaplah Putus Asa Jadilah Beban Keluarga Jangan Lupa Baca Desk!
+	return `*Hello, @${num.split('@')[0]} 👋*
+*Selamat Datang Di _${mdata.subject}_*
+*Seperti Biasa Jauhi Keramaian, Ketatkan Celana Dalam, Simetriskan Kedudukan, Jangan Pernah Semangat Tetaplah Putus Asa Jadilah Beban Keluarga* ```Jangan Lupa Baca Desk!```
 
 ~ Thanks`
 }
@@ -15,7 +15,7 @@ Seperti Biasa Jauhi Keramaian, Ketatkan Celana Dalam, Simetriskan Kedudukan, Jan
 exports.ucapan = ucapan
 
 // FOOTER WELCOME
-const footerwelkam = `JANGAN LUPA PATUHI RULES!`
+const footerwelkam = `JANGAN LUPA PATUHI DONASI!`
 exports.footerwelkam = footerwelkam
 
 
@@ -27,5 +27,5 @@ exports.goodbye = goodbye
 
 
 // FOOTER GOODBYE
-const footergoodbye = `SEMOGA TENANG DI ALAM SANA`
+const footergoodbye = `SEMOGA MATI KETABRAK BECAK`
 exports.footergoodbye = footergoodbye
