@@ -1,0 +1,12 @@
+{
+    "wait": "*[❗] TUNGGU YAA GAUSAH NGAMOK-NGAMOK 😡*",
+    "error": {
+        "Iv": "*[❗] LINK NYA YANG BENER LAH 😒*",
+        "api": "*[❗] ADA KESALAHAN TOD*"
+    },
+    "OnlyGrup": "*ONLY GROUP ❗*",
+    "owner": "*ONLY OWNER ❗*",
+    "GrupAdmin": "*ONLY ADMIN ❗",
+    "BotAdmin": "BOT BUKAN ADMIN 😔",
+    "ban": "*[❗] MAAF NOMOR KAMU KE* *BANNED!*\n*SILAHKAN HUBUNGIN OWNER UNTUK MEMBUKA BANNED ANDA*"
+}
