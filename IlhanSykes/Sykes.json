@@ -1,12 +1,12 @@
 {
-    "wait": "*[❗] TUNGGU YAA GAUSAH NGAMOK-NGAMOK 😡*",
+    "wait": "*[❗] SABAR SEDANG DI PROSES, ORANG SABAR DISAYANG JANDA*",
     "error": {
         "Iv": "*[❗] LINK NYA YANG BENER LAH 😒*",
         "api": "*[❗] ADA KESALAHAN TOD*"
     },
-    "OnlyGrup": "*ONLY GROUP ❗*",
-    "owner": "*ONLY OWNER ❗*",
-    "GrupAdmin": "*ONLY ADMIN ❗",
-    "BotAdmin": "BOT BUKAN ADMIN 😔",
-    "ban": "*[❗] MAAF NOMOR KAMU KE* *BANNED!*\n*SILAHKAN HUBUNGIN OWNER UNTUK MEMBUKA BANNED ANDA*"
+    "OnlyGrup": "*[❗] ONLY GROUP*",
+    "owner": "*[❗] ONLY OWNER*",
+    "GrupAdmin": "*[❗] ONLY ADMIN*",
+    "BotAdmin": "*BOT BUKAN ADMIN 😔*",
+    "ban": "*[❗] NOMOR KAMU KEBANNED!*\n*SILAHKAN DONASI TERLEBIH DAHULU UNTUK UNBAN\nGOPAY : 085609663152\nDANA : 085609663152\nPULSA : 082376354606*"
 }
